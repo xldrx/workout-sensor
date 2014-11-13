@@ -1,0 +1,13 @@
+Filename="data/$(date +"%Y-%m-%d_%H-%M-%S").csv"
+echo $Filename
+
+control_c() {
+    cp $Filename data/latest.csv
+    echo $Filename
+}
+
+trap control_c SIGINT
+
+cp template.csv $Filename
+nc $1 $2 | tee -a $Filename
+cp $Filename data/latest.csv
