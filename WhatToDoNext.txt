@@ -1,0 +1,9 @@
+works to be done
+
+1- cleaning the data
+2- saving data into feature matrices
+	format: cell of cells e.g. generalTrainingData = {{squad},{press}}
+				squad = {sample1, sample2, …}
+				sample1 = matrix, #Features x #Frames
+
+3- 
