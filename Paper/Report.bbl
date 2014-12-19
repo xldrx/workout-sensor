@@ -27,4 +27,20 @@ Liu, J., Pan, Z., and Xiangcheng, L. (2010).
   application for 3D interaction}.
 \newblock {\em Computer Science and Information {\ldots}}.
 
+\bibitem[Rabiner and Juang, 1986]{rabiner1986introduction}
+Rabiner, L. and Juang, B.-H. (1986).
+\newblock An introduction to hidden markov models.
+\newblock {\em ASSP Magazine, IEEE}, 3(1):4--16.
+
+\bibitem[Sabatini, 2006]{sabatini2006quaternion}
+Sabatini, A.~M. (2006).
+\newblock Quaternion-based extended kalman filter for determining orientation
+  by inertial and magnetic sensing.
+\newblock {\em Biomedical Engineering, IEEE Transactions on}, 53(7):1346--1356.
+
+\bibitem[Salvador and Chan, 2007]{salvador2007toward}
+Salvador, S. and Chan, P. (2007).
+\newblock Toward accurate dynamic time warping in linear time and space.
+\newblock {\em Intelligent Data Analysis}, 11(5):561--580.
+
 \end{thebibliography}
