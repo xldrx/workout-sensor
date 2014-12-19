@@ -1,0 +1,30 @@
+\begin{thebibliography}{}
+
+\bibitem[Brand et~al., 1997]{Brand:1997wk}
+Brand, M., Oliver, N., and Pentland, A. (1997).
+\newblock {Coupled hidden Markov models for complex action recognition}.
+
+\bibitem[Chambers et~al., 2004]{Chambers:2004cu}
+Chambers, G.~S., Venkatesh, S., West, G. A.~W., and Bui, H.~H. (2004).
+\newblock {Segmentation of Intentional Human Gestures for Sports Video
+  Annotation}.
+
+\bibitem[Ding et~al., 2008]{Ding:2008gq}
+Ding, H., Trajcevski, G., Scheuermann, P., Wang, X., and Keogh, E. (2008).
+\newblock {Querying and mining of time series data: experimental comparison of
+  representations and distance measures}.
+\newblock pages 1542--1552.
+
+\bibitem[Lee and Kim, 1999]{lee1999hmm}
+Lee, H.-K. and Kim, J.-H. (1999).
+\newblock An hmm-based threshold model approach for gesture recognition.
+\newblock {\em Pattern Analysis and Machine Intelligence, IEEE Transactions
+  on}, 21(10):961--973.
+
+\bibitem[Liu et~al., 2010]{Liu:2010cu}
+Liu, J., Pan, Z., and Xiangcheng, L. (2010).
+\newblock {An accelerometer-based gesture recognition algorithm and its
+  application for 3D interaction}.
+\newblock {\em Computer Science and Information {\ldots}}.
+
+\end{thebibliography}

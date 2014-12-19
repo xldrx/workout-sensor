@@ -1,0 +1,62 @@
+\documentclass[conference, compsoc, letterpaper]{IEEEtran}
+\usepackage{graphicx}
+\usepackage{subfig}
+\usepackage{caption}
+\usepackage{hyperref}
+\usepackage{multirow}
+ \usepackage[table,xcdraw]{xcolor}
+
+\newcommand{\specialcell}[2][c]{\begin{tabular}[#1]{@{}c@{}}#2\end{tabular}}
+
+\begin{document}
+
+\input{./sections/title.tex}
+\input{./sections/authors.tex}
+\maketitle
+
+\IEEEcompsoctitleabstractindextext{
+	\begin{abstract}
+	\boldmath
+	\input{./sections/abstract.tex}
+	\end{abstract}
+}
+
+\IEEEdisplaynotcompsoctitleabstractindextext
+\IEEEpeerreviewmaketitle
+
+\section{Introduction}
+\input{./sections/introduction.tex}
+
+\section{Related Work}
+\input{./sections/relatedworks.tex}
+
+\section{Dataset}
+\input{./sections/data.tex}
+
+\section{Method}
+\input{./sections/method.tex}
+
+\section{Results}
+\input{./sections/results.tex}
+
+\section{Discussion and Future Work}
+\input{./sections/discussion.tex}
+
+\section{Conclusion}
+\input{./sections/conclusion.tex}
+
+% \appendices
+% \input{./sections/appendices.tex}
+
+% \section*{Acknowledgments}
+% \input{./sections/acknowledgment.tex}
+
+\ifCLASSOPTIONcaptionsoff
+  \newpage
+\fi
+
+\bibliographystyle{apalike}
+\bibliography{references}
+
+\end{document}
+ 	

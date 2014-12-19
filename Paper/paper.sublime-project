@@ -1,0 +1,10 @@
+{
+	"folders":
+	[
+		{
+			"path": "/Users/xl/Dropbox/prOjects/va/docs/paper",
+    		"file_exclude_patterns": ["*.aux", "*.log", "*.fls", "*.pdf", "*.gz", "*.bbl", "*.blg", "*.fdb_*", "*.sublime-workspace"],
+    		"folder_exclude_patterns": ["origin","oldfiles"]
+		}
+	]
+}

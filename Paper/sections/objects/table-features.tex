@@ -1,0 +1,35 @@
+\begin{table*}[h]
+\label{table-features}
+\caption{List of collected features in each recording}
+\begin{tabular}{|l|p{3.5cm}|p{10.5cm}|}
+\hline
+\textbf{Category}               & \textbf{Feature}              & \textbf{Description} \\ \hline
+\multirow{3}{*}{General}        & Time                           & Time at the beginning of the recording.                                                                    \\ \cline{2-3} 
+                                & Time Stamp                     & Time as a long integer.                                                                                    \\ \cline{2-3} 
+                                & Record Time                    & Time since recording.                                                                                      \\ \hline
+\multirow{7}{*}{GPS}            & Coordination \{lat, long\}     & The geographical coordinate information.                                                                   \\ \cline{2-3} 
+                                & Altitude                       & The altitude measured in meters.                                                                           \\ \cline{2-3} 
+                                & Speed                          & The instantaneous speed of the device in meters per second.                                                \\ \cline{2-3} 
+                                & Course                         & The direction in which the device is traveling.                                                            \\ \cline{2-3} 
+                                & Vertical Accuracy              & The radius of uncertainty for the location, measured in meters.                                            \\ \cline{2-3} 
+                                & Horizontal Accuracy            & The radius of uncertainty for the location, measured in meters.                                            \\ \cline{2-3} 
+                                & Local Time Stamp               & The time at which this location was determined.                                                            \\ \hline
+Accelerometer                   & Acceleration \{X,Y,Z\}         & The acceleration value for the \{x,y,z\} axis of the device.                                               \\ \hline
+\multirow{4}{*}{Magnetometer}   & Heading \{X,Y,Z\}              & The geomagnetic data (measured in microteslas) for the \{x,y,z\}-axis.                                     \\ \cline{2-3} 
+                                & True Heading                   & The heading (measured in degrees) relative to true north.                                                  \\ \cline{2-3} 
+                                & Magnetic Heading               & The heading (measured in degrees) relative to magnetic north.                                              \\ \cline{2-3} 
+                                & Heading Accuracy               & The maximum deviation (measured in degrees) between the reported heading and \newline the true geomagnetic heading. \\ \hline
+Gyroscope                       & Motion Rotation Rate \{X,Y,Z\} & The rotation rate as measured by the device’s gyroscope.                                                   \\ \hline
+\multirow{5}{*}{Pedometer}      & Activity                       & Getting the Type of Activity: stationary, walking, running, automotive, cycling, or unknown.               \\ \cline{2-3} 
+                                & Activity Confidence            & The confidence that the motion data is accurate.                                                           \\ \cline{2-3} 
+                                & Activity Start                 & The time at which the change in motion occurred.                                                           \\ \cline{2-3} 
+                                & Steps                          & The number of steps taken by the user.                                                                     \\ \cline{2-3} 
+                                & Last Step Date                 & The time at which steps are counted.                                                                       \\ \hline
+\multirow{6}{*}{Processed Data} & Rotation \{X,Y,Z\}             & The rotation rate for each of the three axes in radians per second                                         \\ \cline{2-3} 
+                                & Yaw                            & The yaw of the device, in radians.                                                                         \\ \cline{2-3} 
+                                & Roll                           & The roll of the device, in radians.                                                                        \\ \cline{2-3} 
+                                & Pitch                          & The pitch of the device, in radians.                                                                       \\ \cline{2-3} 
+                                & User Acceleration \{X,Y,Z\}    & The acceleration that the user is giving to the device.                                                    \\ \cline{2-3} 
+                                & Device Orientation             & The way user holds the device                                                                              \\ \hline
+\end{tabular}
+\end{table*}
