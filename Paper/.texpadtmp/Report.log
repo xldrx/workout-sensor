@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.15 (TeX Live 2014) (preloaded format=pdflatex 2014.5.25)  18 DEC 2014 00:22
+This is pdfTeX, Version 3.14159265-2.6-1.40.15 (TeX Live 2014) (preloaded format=pdflatex 2014.5.25)  19 DEC 2014 22:52
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -257,36 +257,65 @@ Package uniquecounter Info: New unique counter `rerunfilecheck' on input line 28
 \Hy@SectionHShift=\skip49
 ) (/usr/local/texlive/2014/texmf-dist/tex/latex/multirow/multirow.sty
 \bigstrutjot=\dimen131
-) (/Users/xl/Dropbox/Courses/Machine.Learning.for.Signal.Processing/Project/Paper/.texpadtmp/Report.aux)
+) (/usr/local/texlive/2014/texmf-dist/tex/latex/xcolor/xcolor.sty
+Package: xcolor 2007/01/21 v2.11 LaTeX color extensions (UK)
+ (/usr/local/texlive/2014/texmf-dist/tex/latex/latexconfig/color.cfg
+File: color.cfg 2007/01/18 v1.5 color configuration of teTeX/TeXLive
+)
+Package xcolor Info: Driver file: pdftex.def on input line 225.
+ (/usr/local/texlive/2014/texmf-dist/tex/latex/colortbl/colortbl.sty
+Package: colortbl 2012/02/13 v1.0a Color table columns (DPC)
+ (/usr/local/texlive/2014/texmf-dist/tex/latex/tools/array.sty
+Package: array 2008/09/09 v2.4c Tabular extension package (FMi)
+\col@sep=\dimen132
+\extrarowheight=\dimen133
+\NC@list=\toks16
+\extratabsurround=\skip50
+\backup@length=\skip51
+)
+\everycr=\toks17
+\minrowclearance=\skip52
+)
+\rownum=\count111
+Package xcolor Info: Model `cmy' substituted by `cmy0' on input line 1337.
+Package xcolor Info: Model `hsb' substituted by `rgb' on input line 1341.
+Package xcolor Info: Model `RGB' extended on input line 1353.
+Package xcolor Info: Model `HTML' substituted by `rgb' on input line 1355.
+Package xcolor Info: Model `Hsb' substituted by `hsb' on input line 1356.
+Package xcolor Info: Model `tHsb' substituted by `hsb' on input line 1357.
+Package xcolor Info: Model `HSB' substituted by `hsb' on input line 1358.
+Package xcolor Info: Model `Gray' substituted by `gray' on input line 1359.
+Package xcolor Info: Model `wave' substituted by `hsb' on input line 1360.
+) (/Users/xl/Dropbox/Development/labs/workout-sensor/Paper/.texpadtmp/Report.aux)
 \openout1 = `Report.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 10.
-LaTeX Font Info:    ... okay on input line 10.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 10.
-LaTeX Font Info:    ... okay on input line 10.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 10.
-LaTeX Font Info:    ... okay on input line 10.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 10.
-LaTeX Font Info:    ... okay on input line 10.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 10.
-LaTeX Font Info:    ... okay on input line 10.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 10.
-LaTeX Font Info:    ... okay on input line 10.
-LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 10.
-LaTeX Font Info:    ... okay on input line 10.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 11.
+LaTeX Font Info:    ... okay on input line 11.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 11.
+LaTeX Font Info:    ... okay on input line 11.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 11.
+LaTeX Font Info:    ... okay on input line 11.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 11.
+LaTeX Font Info:    ... okay on input line 11.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 11.
+LaTeX Font Info:    ... okay on input line 11.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 11.
+LaTeX Font Info:    ... okay on input line 11.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 11.
+LaTeX Font Info:    ... okay on input line 11.
  (/usr/local/texlive/2014/texmf-dist/tex/context/base/supp-pdf.mkii
 [Loading MPS to PDF converter (version 2006.09.02).]
-\scratchcounter=\count111
-\scratchdimen=\dimen132
+\scratchcounter=\count112
+\scratchdimen=\dimen134
 \scratchbox=\box27
-\nofMPsegments=\count112
-\nofMParguments=\count113
-\everyMPshowfont=\toks16
-\MPscratchCnt=\count114
-\MPscratchDim=\dimen133
-\MPnumerator=\count115
-\makeMPintoPDFobject=\count116
-\everyMPtoPDFconversion=\toks17
+\nofMPsegments=\count113
+\nofMParguments=\count114
+\everyMPshowfont=\toks18
+\MPscratchCnt=\count115
+\MPscratchDim=\dimen135
+\MPnumerator=\count116
+\makeMPintoPDFobject=\count117
+\everyMPtoPDFconversion=\toks19
 ) (/usr/local/texlive/2014/texmf-dist/tex/latex/oberdiek/epstopdf-base.sty
 Package: epstopdf-base 2010/02/09 v2.5 Base part for package epstopdf
  (/usr/local/texlive/2014/texmf-dist/tex/latex/oberdiek/grfext.sty
@@ -303,45 +332,86 @@ Package caption Info: subfig package v1.3 is loaded.
 Package caption Info: hyperref package is loaded.
 Package caption Info: End \AtBeginDocument code.
 \AtBeginShipoutBox=\box28
-Package hyperref Info: Link coloring OFF on input line 10.
+Package hyperref Info: Link coloring OFF on input line 11.
  (/usr/local/texlive/2014/texmf-dist/tex/latex/hyperref/nameref.sty
 Package: nameref 2012/10/27 v2.43 Cross-referencing by name of section
  (/usr/local/texlive/2014/texmf-dist/tex/generic/oberdiek/gettitlestring.sty
 Package: gettitlestring 2010/12/03 v1.4 Cleanup title references (HO)
 )
-\c@section@level=\count117
+\c@section@level=\count118
 )
-LaTeX Info: Redefining \ref on input line 10.
-LaTeX Info: Redefining \pageref on input line 10.
-LaTeX Info: Redefining \nameref on input line 10.
- (/Users/xl/Dropbox/Courses/Machine.Learning.for.Signal.Processing/Project/Paper/.texpadtmp/Report.out) (/Users/xl/Dropbox/Courses/Machine.Learning.for.Signal.Processing/Project/Paper/.texpadtmp/Report.out)
+LaTeX Info: Redefining \ref on input line 11.
+LaTeX Info: Redefining \pageref on input line 11.
+LaTeX Info: Redefining \nameref on input line 11.
+ (/Users/xl/Dropbox/Development/labs/workout-sensor/Paper/.texpadtmp/Report.out) (/Users/xl/Dropbox/Development/labs/workout-sensor/Paper/.texpadtmp/Report.out)
 \@outlinefile=\write3
 \openout3 = `Report.out'.
 
  (./sections/title.tex) (./sections/authors.tex)
-LaTeX Font Info:    Try loading font information for OT1+phv on input line 15.
+LaTeX Font Info:    Try loading font information for OT1+phv on input line 16.
  (/usr/local/texlive/2014/texmf-dist/tex/latex/psnfss/ot1phv.fd
 File: ot1phv.fd 2001/06/04 scalable font definitions for OT1/phv.
 )
 LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <14> not available
-(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 15.
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 16.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <12> on input line 16.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <8> on input line 16.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <6> on input line 16.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <5> on input line 16.
+LaTeX Font Info:    Try loading font information for OMS+ptm on input line 16.
+ (/usr/local/texlive/2014/texmf-dist/tex/latex/psnfss/omsptm.fd
+File: omsptm.fd 
+)
+LaTeX Font Info:    Font shape `OMS/ptm/m/it' in size <12> not available
+(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 16.
 
-** ATTENTION: \IEEEcompsoctitleabstractindextext is deprecated (line 16). Use \IEEEtitleabstractindextext instead.
-** ATTENTION: \IEEEdisplaynotcompsoctitleabstractindextext is deprecated (line 23). Use \IEEEdisplaynontitleabstractindextext instead.
+** ATTENTION: \IEEEcompsoctitleabstractindextext is deprecated (line 17). Use \IEEEtitleabstractindextext instead.
+** ATTENTION: \IEEEdisplaynotcompsoctitleabstractindextext is deprecated (line 24). Use \IEEEdisplaynontitleabstractindextext instead.
 (./sections/abstract.tex)
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <7> on input line 23.
-LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <5> on input line 23.
- (./sections/introduction.tex)
-Underfull \vbox (badness 7308) has occurred while \output is active []
+(Font)              <7> on input line 24.
+ (./sections/introduction.tex
+Missing character: There is no ‚ in font ptmr7t!
+Missing character: There is no Ä in font ptmr7t!
+Missing character: There is no ô in font ptmr7t!
+ [1{/usr/local/texlive/2014/texmf-var/fonts/map/pdftex/updmap/pdftex.map}
 
- (./sections/relatedworks.tex) (./sections/data.tex (./sections/objects/table-activities.tex
-LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <8> on input line 6.
-LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <6> on input line 6.
 
+]) (./sections/relatedworks.tex)
+Underfull \hbox (badness 4832) in paragraph at lines 1--32
+[]\OT1/ptm/m/n/10 Classification of hu-man ac-tiv-i-ties is a well-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1--32
+\OT1/ptm/m/n/10 known ma-chine learn-ing prob-lem. Work in
+ []
+
+
+Underfull \hbox (badness 1394) in paragraph at lines 1--32
+\OT1/ptm/m/n/10 as a sin-gle pro-cess with a few states, there-fore
+ []
+
+
+Underfull \hbox (badness 4846) in paragraph at lines 1--32
+\OT1/ptm/m/n/10 [[]] used ac-celerom-e-ter for ges-ture
+ []
+
+
+Underfull \hbox (badness 1454) in paragraph at lines 1--32
+\OT1/ptm/m/n/10 time se-ries rep-re-sen-ta-tions and dis-tance mea-sures
+ []
+
+
+Underfull \hbox (badness 4378) in paragraph at lines 1--32
+\OT1/ptm/m/n/10 of ac-celerom-e-ter data to de-tect sport ac-tiv-i-ties
+ []
+
+(./sections/data.tex (./sections/objects/table-activities.tex
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
@@ -358,77 +428,45 @@ Package caption Warning: \label without proper \caption on input line 2.
 See the caption package documentation for explanation.
 
 
-LaTeX Warning: Reference `table-features' on page 1 undefined on input line 5.
+LaTeX Warning: Reference `table-features' on page 2 undefined on input line 5.
 
 (./sections/objects/table-features.tex
-LaTeX Font Info:    Try loading font information for OMS+ptm on input line 10.
- (/usr/local/texlive/2014/texmf-dist/tex/latex/psnfss/omsptm.fd
-File: omsptm.fd 
-)
 LaTeX Font Info:    Font shape `OMS/ptm/m/n' in size <8> not available
 (Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 10.
 Missing character: There is no ‚ in font ptmr7t!
 Missing character: There is no Ä in font ptmr7t!
 Missing character: There is no ô in font ptmr7t!
 
-Overfull \hbox (14.4791pt too wide) in paragraph at lines 4--35
+Overfull \hbox (16.07906pt too wide) in paragraph at lines 4--35
 [][] 
  []
 
-)) (./sections/method.tex
-Missing character: There is no ‚ in font ptmr7t!
-Missing character: There is no Ä in font ptmr7t!
-Missing character: There is no ô in font ptmr7t!
- [1{/usr/local/texlive/2014/texmf-var/fonts/map/pdftex/updmap/pdftex.map}
-
-
-] (./sections/objects/fig-arch.tex <resources/arch.jpg, id=58, 653.44125pt x 493.845pt>
-File: resources/arch.jpg Graphic file (type jpg)
- <use resources/arch.jpg>
-Package pdftex.def Info: resources/arch.jpg used on input line 3.
-(pdftex.def)             Requested size: 216.81pt x 163.851pt.
-Missing character: There is no ‚ in font ptmr7t!
-Missing character: There is no Ä in font ptmr7t!
-Missing character: There is no ô in font ptmr7t!
-Missing character: There is no ‚ in font ptmr7t!
-Missing character: There is no Ä in font ptmr7t!
-Missing character: There is no ô in font ptmr7t!
-)
-Missing character: There is no ‚ in font ptmr7t!
-Missing character: There is no Ä in font ptmr7t!
-Missing character: There is no ô in font ptmr7t!
- (./sections/objects/fig-viterbi.tex <resources/viterbi.png, id=61, 1068.99374pt x 637.38126pt>
+)) (./sections/method.tex [2]) (./sections/results.tex [3] (./sections/objects/fig-viterbi.tex <resources/viterbi.png, id=82, 1068.99374pt x 637.38126pt>
 File: resources/viterbi.png Graphic file (type png)
  <use resources/viterbi.png>
 Package pdftex.def Info: resources/viterbi.png used on input line 3.
 (pdftex.def)             Requested size: 216.81pt x 129.2635pt.
-) (./sections/objects/table-score.tex
-
-LaTeX Warning: `h' float specifier changed to `ht'.
-
-)) (./sections/results.tex
-Missing character: There is no ‚ in font ptmr7t!
-Missing character: There is no Ä in font ptmr7t!
-Missing character: There is no ú in font ptmr7t!
-Missing character: There is no ‚ in font ptmr7t!
-Missing character: There is no Ä in font ptmr7t!
-Missing character: There is no ù in font ptmr7t!
- (./sections/objects/fig-good-bad.tex <resources/good.png, id=65, 1053.9375pt x 617.30624pt>
+) (./sections/objects/table-score.tex) (./sections/objects/table-scoreThresh.tex) (./sections/objects/fig-good-bad.tex <resources/good.png, id=84, 1053.9375pt x 617.30624pt>
 File: resources/good.png Graphic file (type png)
  <use resources/good.png>
 Package pdftex.def Info: resources/good.png used on input line 3.
 (pdftex.def)             Requested size: 216.81pt x 126.98189pt.
- <resources/bad.png, id=66, 1066.98625pt x 627.34375pt>
+ <resources/bad.png, id=85, 1066.98625pt x 627.34375pt>
 File: resources/bad.png Graphic file (type png)
  <use resources/bad.png>
 Package pdftex.def Info: resources/bad.png used on input line 4.
 (pdftex.def)             Requested size: 216.81pt x 127.47675pt.
-) (./sections/objects/fig-distance.tex <resources/distance.jpg, id=67, 1265.72874pt x 960.58875pt>
+) (./sections/objects/fig-distance.tex <resources/distance.jpg, id=86, 1265.72874pt x 960.58875pt>
 File: resources/distance.jpg Graphic file (type jpg)
  <use resources/distance.jpg>
 Package pdftex.def Info: resources/distance.jpg used on input line 3.
 (pdftex.def)             Requested size: 216.81pt x 164.52914pt.
-)) (./sections/discussion.tex) (./sections/conclusion.tex) (/Users/xl/Dropbox/Courses/Machine.Learning.for.Signal.Processing/Project/Paper/.texpadtmp/Report.bbl)
+)) (./sections/discussion.tex [4 <./resources/viterbi.png> <./resources/good.png> <./resources/bad.png> <./resources/distance.jpg>]) (./sections/conclusion.tex) (/Users/xl/Dropbox/Development/labs/workout-sensor/Paper/.texpadtmp/Report.bbl
+Underfull \hbox (badness 7576) in paragraph at lines 42--45
+[]\OT1/ptm/m/n/9 Salvador, S. and Chan, P.
+ []
+
+)
 
 ** Conference Paper **
 Before submitting the final camera ready copy, remember to:
@@ -440,35 +478,33 @@ Before submitting the final camera ready copy, remember to:
  uses only Type 1 fonts and that every step in the generation
  process uses the appropriate paper size.
 
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 60.
-[2 <./resources/arch.jpg> <./resources/viterbi.png>] [3
-
- <./resources/good.png> <./resources/bad.png> <./resources/distance.jpg>] [4]
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 60.
- (/Users/xl/Dropbox/Courses/Machine.Learning.for.Signal.Processing/Project/Paper/.texpadtmp/Report.aux)
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 60.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 60.
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 61.
+[5] [6]
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 61.
+ (/Users/xl/Dropbox/Development/labs/workout-sensor/Paper/.texpadtmp/Report.aux)
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 61.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 61.
 Package rerunfilecheck Info: File `Report.out' has not changed.
-(rerunfilecheck)             Checksum: A2285BDB00E54A5766B396CD5A66FC5F;310.
+(rerunfilecheck)             Checksum: E16959405942E0DB28E1315BF2C4CD58;386.
 
 
 LaTeX Warning: There were undefined references.
 
-Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 60.
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 61.
  ) 
 Here is how much of TeX's memory you used:
- 7130 strings out of 493117
- 115165 string characters out of 6135433
- 217620 words of memory out of 5000000
- 10459 multiletter control sequences out of 15000+600000
- 39806 words of font info for 73 fonts, out of 8000000 for 9000
+ 7667 strings out of 493117
+ 121190 string characters out of 6135433
+ 228320 words of memory out of 5000000
+ 10976 multiletter control sequences out of 15000+600000
+ 40719 words of font info for 76 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 44i,9n,47p,783b,348s stack positions out of 5000i,500n,10000p,200000b,80000s
-{/usr/local/texlive/2014/texmf-dist/fonts/enc/dvips/base/8r.enc}</usr/local/texlive/2014/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy8.pfb></usr/local/texlive/2014/texmf-dist/fonts/type1/urw/times/utmb8a.pfb></usr/local/texlive/2014/texmf-dist/fonts/type1/urw/times/utmr8a.pfb></usr/local/texlive/2014/texmf-dist/fonts/type1/urw/times/utmri8a.pfb>
-Output written on /Users/xl/Dropbox/Courses/Machine.Learning.for.Signal.Processing/Project/Paper/.texpadtmp/Report.pdf (4 pages, 517800 bytes).
+ 44i,13n,47p,1367b,362s stack positions out of 5000i,500n,10000p,200000b,80000s
+{/usr/local/texlive/2014/texmf-dist/fonts/enc/dvips/base/8r.enc}</usr/local/texlive/2014/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb></usr/local/texlive/2014/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi7.pfb></usr/local/texlive/2014/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></usr/local/texlive/2014/texmf-dist/fonts/type1/public/amsfonts/cm/cmr7.pfb></usr/local/texlive/2014/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/local/texlive/2014/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy8.pfb></usr/local/texlive/2014/texmf-dist/fonts/type1/urw/times/utmb8a.pfb></usr/local/texlive/2014/texmf-dist/fonts/type1/urw/times/utmr8a.pfb></usr/local/texlive/2014/texmf-dist/fonts/type1/urw/times/utmri8a.pfb>
+Output written on /Users/xl/Dropbox/Development/labs/workout-sensor/Paper/.texpadtmp/Report.pdf (6 pages, 478385 bytes).
 PDF statistics:
- 111 PDF objects out of 1000 (max. 8388607)
- 94 compressed objects within 1 object stream
- 26 named destinations out of 1000 (max. 500000)
- 90 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 148 PDF objects out of 1000 (max. 8388607)
+ 124 compressed objects within 2 object streams
+ 32 named destinations out of 1000 (max. 500000)
+ 85 words of extra memory for PDF output out of 10000 (max. 10000000)
 
